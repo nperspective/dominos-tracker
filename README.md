@@ -1,5 +1,4 @@
-# dominos-tracker
-Our Dominos Pizza tracker
+# Dominos Pizza tracker
 by Gabe and Nick
 
 Dominos Pizza is delicious.
